@@ -3,7 +3,7 @@
 
 Hi, I'm **Shreya** — an MCA student and aspiring software developer with a deep passion for building modern, user-centric web applications. I specialize in front-end development with technologies like **React**, **Tailwind CSS**, and also have experience working across the full stack with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
 
-I enjoy turning complex problems into simple, elegant solutions, and I strive to write clean, maintainable code. My academic background combined with hands-on project experience in Java, Swing, Servlets, JSP, and REST APIs has helped me build a strong foundation in both **frontend** and **backend** development.
+I enjoy turning complex problems into simple, elegant solutions, and I strive to write clean, maintainable code. My academic background combined with hands-on project experience in Java, C++,Python,Swing, Servlets, JSP, and REST APIs has helped me build a strong foundation in both **frontend** and **backend** development.
 
 In addition to web development, I’m exploring areas like **cybersecurity**, **Flutter app development**, and **cloud deployment** to expand my technical skill set.
 
