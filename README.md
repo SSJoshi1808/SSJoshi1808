@@ -1,4 +1,4 @@
-# Shreya Sanjay Joshi
+# 👋 Hi there, I'm Shreya Joshi
 ## 👩‍💻 About Me
 
 Hi, I'm **Shreya** — an MCA student and aspiring software developer with a deep passion for building modern, user-centric web applications. I specialize in front-end development with technologies like **React**, **Tailwind CSS**, and also have experience working across the full stack with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
