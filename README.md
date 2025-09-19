@@ -1,10 +1,10 @@
-# 👩‍💻 Shreya Joshi  
+# Shreya Joshi  
 
-🚀 MCA Student | 💻 Full-Stack Developer | 📊 Tech Enthusiast  
+🎓 MCA Student | 💻 Full-Stack Developer | 📊 Tech Enthusiast  
 
 ---
 
-## 🔭 Currently Learning
+## 🔭 Currently Exploring
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
@@ -12,7 +12,9 @@
 
 ---
 
-## 🎨 Frontend
+## 🛠 Tech Stack  
+
+### 🎨 Frontend  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
@@ -22,35 +24,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
----
-
-## ⚙️ Backend
+### ⚙️ Backend  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
----
-
-## 🗄️ Databases
+### 🗄️ Databases  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/sql.png" alt="sql" width="40" height="40"/>
 </p>
 
----
-
-## 📱 Mobile Development
+### 📱 Mobile Development  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 </p>
 
----
-
-## 🛠 Tools & Platforms
+### 🛠 Tools & Platforms  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -61,46 +55,53 @@
 
 ---
 
-# 🚀 Projects  
+## 🚀 Projects  
 
 ### 🔹 SuvarnaRup – Jewellery E-commerce Website  
 💍 A full-stack jewellery e-commerce platform with secure payments and role-based authentication.  
-
-**Tech Stack (inline row):**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)  
-![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  
-![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)  
+- **Features:** Product CRUD, role-based login, PayPal integration, real-time order handling.  
+- **Tech Stack:**  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white"/>
+</p>
 
 ---
 
-### 🔹 Electronic Device Billing System  
-🖥️ Desktop billing system with Java Swing & MySQL integration.  
-
-**Tech Stack (inline row):**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![Swing](https://img.shields.io/badge/Swing-5382A1?logo=java&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
-![JDBC](https://img.shields.io/badge/JDBC-007396?logo=java&logoColor=white)  
+### 🔹 NestNavi – PG Rental System  
+🏠 A web platform for PG owners to list/manage rooms & tenants to apply.  
+- **Features:** Property listing, search & filtering, student-owner interaction.  
+- **Tech Stack:**  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
 ### 🔹 Portfolio Website  
-🌐 Personal responsive portfolio showcasing projects & skills.  
-
-**Tech Stack (inline row):**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)  
+🌐 A responsive portfolio to showcase projects, skills & certifications.  
+- **Features:** Smooth navigation, clean design.  
+- **Tech Stack:**  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff"/>
+</p>
 
 ---
 
 ## 🎓 Education  
-- 🎓 **MCA (2024 – 2026)** | MES IMCC, Pune – CGPA: 9.35  
-- 🎓 **BBA (CA) (2021 – 2024)** | MES Garware College, Pune – CGPA: 9.10  
+- **MCA (2024 – 2026)** | MES IMCC, Pune – CGPA: 9.35  
+- **BBA (CA) (2021 – 2024)** | MES Garware College, Pune – CGPA: 9.10  
 
 ---
 
@@ -131,4 +132,4 @@
 
 ---
 
-⭐️ Crafted with ❤️ by **Shreya Joshi**
+⭐️ Designed with elegance by **Shreya Joshi**
