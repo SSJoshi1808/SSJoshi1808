@@ -1,7 +1,5 @@
 # Hi there 👋
 
----
-
 🎓 MCA Student | 💻 Full-Stack Developer | 📊 Tech Enthusiast  
 
 ---
