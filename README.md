@@ -4,14 +4,6 @@
 
 ---
 
-## 🔭 Currently Exploring
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-</p>
-
----
-
 ## 🛠 Tech Stack  
 
 ### 🎨 Frontend  
@@ -50,7 +42,14 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/>
+</p>
+
+---
+
+## 🔭 Currently Exploring
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
 </p>
 
 ---
