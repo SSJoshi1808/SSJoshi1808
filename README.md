@@ -1,105 +1,72 @@
-# Hello, I'm Shreya Joshi 👋  
+# Shreya Joshi  
 
-🚀 MCA Student | 💻 Full-Stack Developer | 📊 Tech Enthusiast  
-
----
-
-### 🔭 Currently Learning ...
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-</p>
+🎓 MCA Student | 💻 Full-Stack Developer | 📊 Tech Enthusiast  
 
 ---
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-</p>
+## 🔭 Currently Exploring
+- Flutter & Dart  
+- MERN Stack Advanced Concepts  
+- Cloud & AI Tools  
 
 ---
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</p>
+## 🛠 Tech Stack  
 
----
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)  
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/sql.png" alt="sql" width="40" height="40"/>
-</p>
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)  
 
----
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)  
 
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-</p>
+### 📱 Mobile Development  
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
 
----
-
-### 🛠 Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/>
-</p>
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff)  
 
 ---
 
 ## 🚀 Projects  
 
 ### 🔹 SuvarnaRup – Jewellery E-commerce Website  
-💍 Full-stack jewellery e-commerce system with role-based authentication & PayPal payments.  
-- Features: Product CRUD, secure payments, real-time transaction handling.  
-- **Tech Stack:**  
-
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)  
-![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)  
+💍 A secure e-commerce system with role-based authentication and PayPal payments.  
+**Tech Stack:** React • TailwindCSS • Redux • Node.js • Express.js • MongoDB • JWT • PayPal API  
 
 ---
 
 ### 🔹 Electronic Device Billing System  
-🖥️ Java Swing + MySQL desktop billing system with customer & product management.  
-- Features: Billing reports, database integration, user-friendly interface.  
-- **Tech Stack:**  
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans&logoColor=white)  
+🖥️ A Java Swing + MySQL desktop billing solution for managing customers & products.  
+**Tech Stack:** Java • Swing • MySQL • JDBC  
 
 ---
 
 ### 🔹 Portfolio Website  
-🌐 Responsive portfolio showcasing projects & skills.  
-- Features: Smooth navigation, clean design.  
-- **Tech Stack:**  
-
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)  
+🌐 A responsive personal portfolio to showcase skills & projects.  
+**Tech Stack:** React • TailwindCSS  
 
 ---
 
 ## 🎓 Education  
-- 🎓 **MCA (2024 – 2026)** | MES IMCC, Pune – CGPA: 9.35  
-- 🎓 **BBA (CA) (2021 – 2024)** | MES Garware College, Pune – CGPA: 9.10  
+- **MCA (2024 – 2026)** | MES IMCC, Pune – CGPA: 9.35  
+- **BBA (CA) (2021 – 2024)** | MES Garware College, Pune – CGPA: 9.10  
 
 ---
 
@@ -112,7 +79,7 @@
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/shreya-joshi-237240264" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -130,4 +97,4 @@
 
 ---
 
-⭐️ From [Shreya Joshi](https://github.com/SSJoshi1808)  
+⭐️ Crafted with passion by **Shreya Joshi**
