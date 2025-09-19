@@ -42,6 +42,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 </p>
 
+---
+
 ### 🛠 Tools & Platforms  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
@@ -110,11 +112,11 @@
 
 ---
 
-## 📜 Certifications  
-- C++ Programming – Coursera  
+## 📜 Certifications
+- Generative AI – IBM
 - Node.js REST API – Udemy  
-- Jira + Agile – Udemy  
-- Generative AI – IBM  
+- C++ Programming – Coursera  
+- Node.js REST API – Udemy   
 - Cloud Computing – IBM  
 
 ---
